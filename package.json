@@ -1,0 +1,12 @@
+{
+	"name": "ny-job-scraper",
+	"version": "0.0.0",
+	"description": "scrape ny jobs from nyc data site",
+	 "engines": {
+	    "node": ">= 0.8.0"
+	  },
+	"devDependencies": {
+		"casperjs": "~1.1.0",
+		"lodash": "~2.4.1"
+	}
+}
